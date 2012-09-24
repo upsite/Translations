@@ -1,0 +1,1 @@
+This repository will be used in the preparation of translations for CyanogenMod 7,9 and 10.
