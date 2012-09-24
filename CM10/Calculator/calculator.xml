@@ -1,14 +1,14 @@
-***http://review.cyanogenmod.com/#/c/23291/***
+п»ї***http://review.cyanogenmod.com/#/c/23291/***
 
-    <string name="matrix">Пенель матриц</string>
-    <string name="graph">Панель графиков</string>
-    <string name="function">Панель функций</string>
-    <string name="hexPanel">Hex панель</string>
+    <string name="matrix">РџРµРЅРµР»СЊ РјР°С‚СЂРёС†</string>
+    <string name="graph">РџР°РЅРµР»СЊ РіСЂР°С„РёРєРѕРІ</string>
+    <string name="function">РџР°РЅРµР»СЊ С„СѓРЅРєС†РёР№</string>
+    <string name="hexPanel">Hex РїР°РЅРµР»СЊ</string>
     <string name="solveForX">Solve for X</string>
     <string name="solveForY">Solve for Y</string>
     <string name="mod">mod</string>
-    <string name="defaultGraphTitle">Функция</string>
-    <string name="graphTitle">Функция: </string>
+    <string name="defaultGraphTitle">Р¤СѓРЅРєС†РёСЏ</string>
+    <string name="graphTitle">Р¤СѓРЅРєС†РёСЏ: </string>
     <string name="inverse">Inv</string>
     <string name="determinant">Det</string>
     <string name="eigenvalue">Eigen</string>
@@ -18,11 +18,11 @@
     <string name="hex">Hex</string>
     <string name="bin">Bin</string>
     <string name="dec">Dec</string>
-    <string name="hexDesc">Шестнадцатиричный</string>
-    <string name="binDesc">Двоичный</string>
-    <string name="decDesc">Десятичный</string>
-    <string name="determinantDesc">Определитель</string>
-    <string name="eigenvalueDesc">Собственные значения</string>
-    <string name="settings">Настройки</string>
-    <string name="showHistory">Показать историю</string>
-    <string name="hideHistory">Скрыть историю</string>
+    <string name="hexDesc">РЁРµСЃС‚РЅР°РґС†Р°С‚РёСЂРёС‡РЅС‹Р№</string>
+    <string name="binDesc">Р”РІРѕРёС‡РЅС‹Р№</string>
+    <string name="decDesc">Р”РµСЃСЏС‚РёС‡РЅС‹Р№</string>
+    <string name="determinantDesc">РћРїСЂРµРґРµР»РёС‚РµР»СЊ</string>
+    <string name="eigenvalueDesc">РЎРѕР±СЃС‚РІРµРЅРЅС‹Рµ Р·РЅР°С‡РµРЅРёСЏ</string>
+    <string name="settings">РќР°СЃС‚СЂРѕР№РєРё</string>
+    <string name="showHistory">РџРѕРєР°Р·Р°С‚СЊ РёСЃС‚РѕСЂРёСЋ</string>
+    <string name="hideHistory">РЎРєСЂС‹С‚СЊ РёСЃС‚РѕСЂРёСЋ</string>
