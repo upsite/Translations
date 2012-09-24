@@ -1,0 +1,28 @@
+***http://review.cyanogenmod.com/#/c/23291/***
+
+    <string name="matrix">Matrix panel</string>
+    <string name="graph">Graph panel</string>
+    <string name="function">Function panel</string>
+    <string name="hexPanel">Hex panel</string>
+    <string name="solveForX">Solve for X</string>
+    <string name="solveForY">Solve for Y</string>
+    <string name="mod">mod</string>
+    <string name="defaultGraphTitle">Function</string>
+    <string name="graphTitle">Function: </string>
+    <string name="inverse">Inv</string>
+    <string name="determinant">Det</string>
+    <string name="eigenvalue">Eigen</string>
+    <string name="solve">Solve</string>
+    <string name="dotProduct">Dot</string>
+    <string name="crossProduct">Cross</string>
+    <string name="hex">Hex</string>
+    <string name="bin">Bin</string>
+    <string name="dec">Dec</string>
+    <string name="hexDesc">Hexadecimal</string>
+    <string name="binDesc">Binary</string>
+    <string name="decDesc">Decimal</string>
+    <string name="determinantDesc">Determinant</string>
+    <string name="eigenvalueDesc">Eigen Values</string>
+    <string name="settings">Settings</string>
+    <string name="showHistory">Show History</string>
+    <string name="hideHistory">Hide History</string>
