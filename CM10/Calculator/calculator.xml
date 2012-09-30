@@ -1,6 +1,6 @@
 ﻿***http://review.cyanogenmod.com/#/c/23291/***
 
-    <string name="matrix">Пенель матриц</string>
+    <string name="matrix">Панель матриц</string>
     <string name="graph">Панель графиков</string>
     <string name="function">Панель функций</string>
     <string name="hexPanel">Hex панель</string>
