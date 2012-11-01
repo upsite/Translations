@@ -247,26 +247,26 @@
 
   <string name="actions_ask_undone_operation_msg">Это действие не обратимо. Вы хотите продолжить?</string>
 
-  <string name="input_name_dialog_label">Name:</string>
-  <string name="input_name_dialog_message_empty_name">The name cannot be empty.</string>
-  <string name="input_name_dialog_message_invalid_path_name">Invalid name. The characters \'<xliff:g id="invalid_characters">%1$s</xliff:g>\' are not allowed.</string>
-  <string name="input_name_dialog_message_invalid_name">Invalid name. The names \'.\' and \'..\' are not allowed.</string>
-  <string name="input_name_dialog_message_name_exists">The name already exists.</string>
+  <string name="input_name_dialog_label">Имя:</string>
+  <string name="input_name_dialog_message_empty_name">Имя не может быть пустым.</string>
+  <string name="input_name_dialog_message_invalid_path_name">Недопустимое имя. Нельзя использовать символы: \'<xliff:g id="invalid_characters">%1$s</xliff:g>\'.</string>
+  <string name="input_name_dialog_message_invalid_name">Недопустимое имя. Имена \'.\' и \'..\' не разрешены.</string>
+  <string name="input_name_dialog_message_name_exists">Такое имя уже существует.</string>
 
-  <string name="associations_dialog_title">Associations</string>
-  <string name="associations_dialog_remember">Remember selection</string>
-  <string name="associations_dialog_openwith_title">Open with</string>
-  <string name="associations_dialog_openwith_action">Open</string>
-  <string name="associations_dialog_sendwith_title">Send with</string>
-  <string name="associations_dialog_sendwith_action">Send</string>
+  <string name="associations_dialog_title">Ассоциации</string>
+  <string name="associations_dialog_remember">Запомнить выбор</string>
+  <string name="associations_dialog_openwith_title">Открыть в...</string>
+  <string name="associations_dialog_openwith_action">Открыть</string>
+  <string name="associations_dialog_sendwith_title">Отправить в...</string>
+  <string name="associations_dialog_sendwith_action">Отправить</string>
 
   <string name="inline_autocomplete_tab_nothing_to_complete_msg">Nothing to complete.</string>
 
-  <string name="execution_console_title">Console</string>
-  <string name="execution_console_script_name_label">Script:</string>
-  <string name="execution_console_script_execution_time_label">Time:</string>
-  <string name="execution_console_script_exitcode_label">Exit code:</string>
-  <string name="execution_console_script_execution_time_text"><xliff:g id="seconds">%1$s</xliff:g> sec.</string>
+  <string name="execution_console_title">Консоль</string>
+  <string name="execution_console_script_name_label">Скрипт:</string>
+  <string name="execution_console_script_execution_time_label">Время:</string>
+  <string name="execution_console_script_exitcode_label">Код завершения:</string>
+  <string name="execution_console_script_execution_time_text"><xliff:g id="seconds">%1$s</xliff:g> сек.</string>
 
   <string name="mime_folder">Folder</string>
   <string name="mime_symlink">Symlink</string>
