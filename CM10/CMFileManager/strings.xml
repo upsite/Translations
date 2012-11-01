@@ -17,50 +17,45 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
   <string name="app_name">File Manager</string>
-  <string name="app_description">A CyanogenMod file manager.</string>
+  <string name="app_description">Файловый менеджер CyanogenMod</string>
 
   <string name="device_blockdevice">Block device</string>
   <string name="device_characterdevice">Character device</string>
   <string name="device_namedpipe">Named pipe</string>
   <string name="device_domainsocket">Domain socket</string>
 
-  <string name="mount_point_readonly">RO</string>
-  <string name="mount_point_readwrite">RW</string>
+  <string name="mount_point_readonly">R/O</string>
+  <string name="mount_point_readwrite">R/W</string>
 
-  <string name="ok">@android:string/ok</string>
-  <string name="cancel">@android:string/cancel</string>
-  <string name="yes">Yes</string>
-  <string name="no">No</string>
-  <string name="all">All</string>
-  <string name="overwrite">Overwrite</string>
+  <string name="yes">Да</string>
+  <string name="no">Нет</string>
+  <string name="all">Все</string>
+  <string name="overwrite">Заменить</string>
 
-  <string name="root_directory_name"><![CDATA[<Root folder>]]></string>
-  <string name="search_result_name">Search: <xliff:g id="terms">%1$s</xliff:g></string>
+  <string name="search_result_name">Поиск: <xliff:g id="terms">%1$s</xliff:g></string>
 
-  <string name="loading_message">Loading &#8230;</string>
-  <string name="computing_message"><xliff:g id="data">%1$s</xliff:g></string>
-  <string name="computing_message_ln"><xliff:g id="data">%1$s</xliff:g></string>
-  <string name="cancelled_message">Cancelled.</string>
-  <string name="error_message">Error.</string>
+  <string name="loading_message">Загрузка &#8230;</string>
+  <string name="cancelled_message">Отменено</string>
+  <string name="error_message">Ошибка</string>
 
-  <string name="warning_title">Warning</string>
-  <string name="error_title">Error detected</string>
-  <string name="confirm_operation">Confirm operation</string>
-  <string name="confirm_overwrite">Confirm overwrite</string>
-  <string name="confirm_deletion">Confirm deletion</string>
+  <string name="warning_title">Внимание</string>
+  <string name="error_title">Обнаружена ошибка</string>
+  <string name="confirm_operation">Подтвердите операцию</string>
+  <string name="confirm_overwrite">Подтвердите замену</string>
+  <string name="confirm_deletion">Подтвердите удаление</string>
 
-  <string name="msgs_change_to_prompt_access_mode_title">Confirm switch</string>
-  <string name="msgs_change_to_prompt_access_mode_msg">Unable to run in Root Access mode. Changing to Safe mode.\n\nApply this change?</string>
+  <string name="msgs_change_to_prompt_access_mode_title">Подтвердить переключение</string>
+  <string name="msgs_change_to_prompt_access_mode_msg">Невозможно запустить в Root-режиме. Переключение в безопасный режим.\n\nПрименить?</string>
 
-  <string name="msgs_cant_create_console">Unable to gain the required privileges to function.</string>
-  <string name="msgs_privileged_console_alloc_failed">Unable to run in Root Access mode. Changing to Safe mode.</string>
-  <string name="msgs_settings_save_failure">The setting could not be applied or stored.</string>
-  <string name="msgs_settings_invalid_initial_directory">The initial folder"<xliff:g id="initial_dir">%1$s</xliff:g>" is invalid. Changing to root folder.</string>
+  <string name="msgs_cant_create_console">Не удаётся получить необходимые привелегии.</string>
+  <string name="msgs_privileged_console_alloc_failed">Невозможно запустить в Root-режиме. Переключение в безопасный режим.</string>
+  <string name="msgs_settings_save_failure">Настрока не может быть применена или сохранена.</string>
+  <string name="msgs_settings_invalid_initial_directory">Начальная папка "<xliff:g id="initial_dir">%1$s</xliff:g>" недоступна. Переход в корневую папку.</string>
 
-  <string name="msgs_success">The operation was completed successfully.</string>
-  <string name="msgs_unknown">An error was detected. The operation was unsuccessful.</string>
-  <string name="msgs_insufficient_permissions">This operation requires elevated permissions. Try changing to Root Access mode.</string>
-  <string name="msgs_file_not_found">The file or folder was not found.</string>
+  <string name="msgs_success">Операция прошла успешно.</string>
+  <string name="msgs_unknown">Были обнаружены ошибки. Операция завершилась неудачно.</string>
+  <string name="msgs_insufficient_permissions">Эта операция требует повышенных привелегий. Попробуйте изменить Root-режим.</string>
+  <string name="msgs_file_not_found">Файл или папка не найдены.</string>
   <string name="msgs_command_not_found">The operation\'s command was not found or has an invalid definition.</string>
   <string name="msgs_io_failed">Read/write failure.</string>
   <string name="msgs_operation_timeout">The operation timed out.</string>
@@ -72,7 +67,7 @@
   <string name="msgs_unresolved_inconsistencies">The operation is not permitted because it would create inconsistencies.</string>
   <string name="msgs_operation_not_allowed_in_current_directory">The operation is not permitted in current folder.</string>
 
-  <string name="msgs_push_again_to_exit">Press again to exit.</string>
+  <string name="msgs_push_again_to_exit">Нажмите ещё раз для выхода.</string>
 
   <string name="msgs_not_registered_app">There is no application registered to handle the type of file selected.</string>
 
