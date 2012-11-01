@@ -77,179 +77,175 @@
 
   <string name="advise_insufficient_permissions">The operation requires elevated privileges.\n\n Do you want to change to Root Access mode?</string>
 
-  <string name="parent_dir">Parent folder</string>
-  <string name="external_storage">External storage</string>
-  <string name="usb_storage">USB storage</string>
+  <string name="parent_dir">Домашняя папка</string>
+  <string name="external_storage">Внешний накопиетль</string>
+  <string name="usb_storage">USB накопитель</string>
 
-  <string name="actionbar_button_filesystem_cd">File system info</string>
-  <string name="actionbar_button_sort_mode_cd">Sort mode</string>
-  <string name="actionbar_button_layout_mode_cd">Layout mode</string>
-  <string name="actionbar_button_other_view_options_cd">Other view options</string>
-  <string name="actionbar_button_selection_done_cd">Done</string>
-  <string name="actionbar_button_actions_cd">Actions</string>
-  <string name="actionbar_button_history_cd">History</string>
-  <string name="actionbar_button_bookmarks_cd">Bookmarks</string>
-  <string name="actionbar_button_search_cd">Search</string>
-  <string name="actionbar_button_overflow_cd">More options</string>
-  <string name="actionbar_button_storage_cd">Storage volumes</string>
-  <string name="actionbar_button_save_cd">Save</string>
+  <string name="actionbar_button_filesystem_cd">Инф. о системе</string>
+  <string name="actionbar_button_sort_mode_cd">Режим сортировки</string>
+  <string name="actionbar_button_layout_mode_cd">Режим отображения</string>
+  <string name="actionbar_button_other_view_options_cd">Другие настройки отображения</string>
+  <string name="actionbar_button_selection_done_cd">Готово</string>
+  <string name="actionbar_button_actions_cd">Действия</string>
+  <string name="actionbar_button_history_cd">История</string>
+  <string name="actionbar_button_bookmarks_cd">Закладки</string>
+  <string name="actionbar_button_search_cd">Поиск</string>
+  <string name="actionbar_button_overflow_cd">Доп. настройки</string>
+  <string name="actionbar_button_storage_cd">Накопительные устройства</string>
+  <string name="actionbar_button_save_cd">Сохранить</string>
 
-  <string name="sort_by_name_asc">By name &#x25B2;</string>
-  <string name="sort_by_name_desc">By name &#x25BC;</string>
-  <string name="sort_by_date_asc">By date &#x25B2;</string>
-  <string name="sort_by_date_desc">By date &#x25BC;</string>
+  <string name="sort_by_name_asc">По имени &#x25B2;</string>
+  <string name="sort_by_name_desc">По имени &#x25BC;</string>
+  <string name="sort_by_date_asc">По дате &#x25B2;</string>
+  <string name="sort_by_date_desc">По дате &#x25BC;</string>
 
-  <string name="layout_icons">Icons</string>
-  <string name="layout_simple">Simple</string>
-  <string name="layout_details">Details</string>
+  <string name="layout_icons">Значки</string>
+  <string name="layout_simple">Список</string>
+  <string name="layout_details">Детально</string>
 
-  <string name="cm_filemanager_show_dirs_first">Show folders first</string>
-  <string name="cm_filemanager_show_hidden">Show hidden files</string>
-  <string name="cm_filemanager_show_system">Show system files</string>
-  <string name="cm_filemanager_show_symlinks">Show symlinks</string>
+  <string name="cm_filemanager_show_dirs_first">Отображать папки первыми</string>
+  <string name="cm_filemanager_show_hidden">Отображать скрытые файлы</string>
+  <string name="cm_filemanager_show_system">Отображать системные файлы</string>
+  <string name="cm_filemanager_show_symlinks">Отображать симлинки</string>
 
-  <string name="filesystem_info_warning_title">No information</string>
-  <string name="filesystem_info_warning_msg">There is no information available for the file system.</string>
+  <string name="filesystem_info_warning_title">Нет информации</string>
+  <string name="filesystem_info_warning_msg">Нет доступной информации о файловой системе.</string>
   <string name="filesystem_info_cant_be_mounted_msg">The file system cannot be mounted/unmounted.</string>
   <string name="filesystem_info_mount_not_allowed_msg">File system mounting operations are not allowed in Safe mode. Tap to change to Root Access mode.</string>
   <string name="filesystem_info_mount_failed_msg">File system mounting operation failed. Some file systems, like SD cards, cannot be mounted/unmounted because they are built-in as read-only file systems.</string>
-  <string name="filesystem_info_dialog_title">File system information</string>
-  <string name="filesystem_info_dialog_tab_info">Info</string>
-  <string name="filesystem_info_dialog_tab_disk_usage">Disk usage</string>
-  <string name="filesystem_info_dialog_status">Status:</string>
-  <string name="filesystem_info_dialog_mount_point">Mount point:</string>
-  <string name="filesystem_info_dialog_device">Device:</string>
-  <string name="filesystem_info_dialog_type">Type:</string>
-  <string name="filesystem_info_dialog_options">Options:</string>
+  <string name="filesystem_info_dialog_title">Информация о файловой системе</string>
+  <string name="filesystem_info_dialog_tab_info">Информация</string>
+  <string name="filesystem_info_dialog_tab_disk_usage">Диск</string>
+  <string name="filesystem_info_dialog_status">Статус:</string>
+  <string name="filesystem_info_dialog_mount_point">Точка монтирования:</string>
+  <string name="filesystem_info_dialog_device">Устройство:</string>
+  <string name="filesystem_info_dialog_type">Тип:</string>
+  <string name="filesystem_info_dialog_options">Опции:</string>
   <string name="filesystem_info_dialog_dump_pass">Dump / Pass:</string>
-  <string name="filesystem_info_dialog_total_disk_usage">Total:</string>
-  <string name="filesystem_info_dialog_used_disk_usage">Used:</string>
-  <string name="filesystem_info_dialog_free_disk_usage">Free:</string>
+  <string name="filesystem_info_dialog_total_disk_usage">Всего:</string>
+  <string name="filesystem_info_dialog_used_disk_usage">Исп.:</string>
+  <string name="filesystem_info_dialog_free_disk_usage">Своб.:</string>
 
   <string name="fso_properties_permissions_not_allowed_msg">Permissions operations are not allowed in Safe mode. Tap to change to Root Access mode.</string>
   <string name="fso_properties_failed_to_change_owner_msg">The change of owner operation failed.\n\n For security reasons, some file systems, like SD cards, do not allow the changing of ownership.</string>
   <string name="fso_properties_failed_to_change_group_msg">The change of group operation failed.\n\n For security reasons, some file systems, like SD cards, do not allow the changing of groups.</string>
   <string name="fso_properties_failed_to_change_permission_msg">The change of permissions operation failed.\n\nFor security reasons, some file systems, like SD cards, do not allow the changing of permissions.</string>
-  <string name="fso_properties_dialog_title">Properties</string>
-  <string name="fso_properties_dialog_tab_info">Info</string>
-  <string name="fso_properties_dialog_tab_permissions">Permissions</string>
-  <string name="fso_properties_dialog_name">Name:</string>
-  <string name="fso_properties_dialog_parent">Parent:</string>
-  <string name="fso_properties_dialog_type">Type:</string>
-  <string name="fso_properties_dialog_category">Category:</string>
-  <string name="fso_properties_dialog_link">Link:</string>
-  <string name="fso_properties_dialog_size">Size:</string>
-  <string name="fso_properties_dialog_contains">Contains:</string>
-  <string name="fso_properties_dialog_date">Last access:</string>
-  <string name="fso_properties_dialog_owner">Owner:</string>
-  <string name="fso_properties_dialog_group">Group:</string>
-  <string name="fso_properties_dialog_others">Others:</string>
-  <string name="fso_properties_dialog_folder_items">
-    <xliff:g id="folders">%1$s</xliff:g> / <xliff:g id="files">%2$s</xliff:g></string>
+  <string name="fso_properties_dialog_title">Свойства</string>
+  <string name="fso_properties_dialog_tab_info">Инфо</string>
+  <string name="fso_properties_dialog_tab_permissions">Разрешения</string>
+  <string name="fso_properties_dialog_name">Имя:</string>
+  <string name="fso_properties_dialog_parent">Родитель:</string>
+  <string name="fso_properties_dialog_type">Тип:</string>
+  <string name="fso_properties_dialog_category">Категория:</string>
+  <string name="fso_properties_dialog_link">Ссылка:</string>
+  <string name="fso_properties_dialog_size">Размер:</string>
+  <string name="fso_properties_dialog_contains">Содержит:</string>
+  <string name="fso_properties_dialog_date">Посл. доступ:</string>
+  <string name="fso_properties_dialog_owner">Владелец:</string>
+  <string name="fso_properties_dialog_group">Группа:</string>
+  <string name="fso_properties_dialog_others">Другое:</string>
   <plurals name="fso_properties_dialog_folders">
-    <item quantity="zero">0 folders</item>
-    <item quantity="one">1 folder</item>
-    <item quantity="other"><xliff:g id="folders">%1$d</xliff:g> folders</item>
+    <item quantity="zero">0 папок</item>
+    <item quantity="one">1 папка</item>
+    <item quantity="other"><xliff:g id="folders">%1$d</xliff:g> папки(-ок,-а)</item>
   </plurals>
   <plurals name="fso_properties_dialog_files">
-    <item quantity="zero">0 files</item>
-    <item quantity="one">1 files</item>
-    <item quantity="other"><xliff:g id="files">%1$d</xliff:g> files</item>
+    <item quantity="zero">0 файлов</item>
+    <item quantity="one">1 файл</item>
+    <item quantity="other"><xliff:g id="files">%1$d</xliff:g> файл(-ов,-а)</item>
   </plurals>
 
-  <string name="history">History</string>
-  <string name="msgs_history_empty">History is empty.</string>
-  <string name="msgs_history_unknown">Unknown history item.</string>
+  <string name="history">История</string>
+  <string name="msgs_history_empty">История пуста.</string>
+  <string name="msgs_history_unknown">Неизвестный пункт истории.</string>
 
-  <string name="search">Search results</string>
-  <string name="search_hint">Type your search</string>
-  <string name="search_voice_hint">Speak your search</string>
+  <string name="search">Результат поиска</string>
+  <string name="search_hint">Введите условие поиска</string>
+  <string name="search_voice_hint">Произнесите условие поиска</string>
   <string name="search_error_msg">An error occurred while searching. No results found.</string>
-  <string name="search_no_results_msg">No results found.</string>
+  <string name="search_no_results_msg">Ничего не найдено.</string>
   <plurals name="search_found_items">
-    <item quantity="zero">No items found</item>
-    <item quantity="one">1 item found</item>
-    <item quantity="other"><xliff:g id="count">%d</xliff:g> items found</item>
+    <item quantity="zero">Ничего не найдено</item>
+    <item quantity="one">Найдено 1 значение</item>
+    <item quantity="other">Найдено <xliff:g id="count">%d</xliff:g> значения(-й)</item>
   </plurals>
-  <string name="search_found_items_in_directory"><xliff:g id="items">%1$s</xliff:g> in  <xliff:g id="path">%2$s</xliff:g></string>
-  <string name="search_terms"><![CDATA[<b>Terms:</b>]]> <xliff:g id="terms">%1$s</xliff:g></string>
-  <string name="search_few_characters_title">Confirm search</string>
+  <string name="search_found_items_in_directory"><xliff:g id="items">%1$s</xliff:g> в <xliff:g id="path">%2$s</xliff:g></string>
+  <string name="search_few_characters_title">Подтвердите поиск</string>
   <string name="search_few_characters_msg">Some of the search terms has a small number characters. The operation could be very costly in time and system resources.\n\nDo you want to continue?</string>
-  <string name="searching">Please wait &#8230;</string>
-  <string name="searching_action_label">Searching in progress</string>
+  <string name="searching">Пожалуйста подождите &#8230;</string>
+  <string name="searching_action_label">Продолжается поиск...</string>
 
-  <string name="picker">@string/app_name</string>
-  <string name="picker_title">Pick a file</string>
+  <string name="picker_title">Выбрать файл</string>
 
-  <string name="editor">Editor</string>
-  <string name="editor_invalid_file_msg">Invalid file.</string>
-  <string name="editor_file_not_found_msg">File not found.</string>
-  <string name="editor_file_exceed_size_msg">The file is too big to be open inside this device.</string>
-  <string name="editor_dirty_ask_title">Confirm exit</string>
-  <string name="editor_dirty_ask_msg">There are unsaved changes.\n\nExit without saving?</string>
-  <string name="editor_successfully_saved">The file was successfully saved.</string>
-  <string name="editor_read_only_mode">The file is opened in read-only mode.</string>
+  <string name="editor">Редактор</string>
+  <string name="editor_invalid_file_msg">Недопустимый файл.</string>
+  <string name="editor_file_not_found_msg">Файл не найден.</string>
+  <string name="editor_file_exceed_size_msg">Файл слишком большой для открытия на этом устройстве.</string>
+  <string name="editor_dirty_ask_title">Подтвердите выход</string>
+  <string name="editor_dirty_ask_msg">Имеются не сохранённые изменения.\n\nВыйти без сохранения?</string>
+  <string name="editor_successfully_saved">Файл успешно сохранён.</string>
+  <string name="editor_read_only_mode">Файл открыт только для чтения.</string>
 
-  <string name="bookmarks">Bookmarks</string>
-  <string name="bookmarks_home">Home</string>
-  <string name="bookmarks_root_folder">Root folder</string>
-  <string name="bookmarks_system_folder">System folder</string>
-  <string name="bookmarks_button_config_cd">Set the initial folder.</string>
-  <string name="bookmarks_button_remove_bookmark_cd">Remove the bookmark.</string>
-  <string name="bookmarks_msgs_add_success">The bookmark was added successfully.</string>
+  <string name="bookmarks">Заклдаки</string>
+  <string name="bookmarks_home">Домой</string>
+  <string name="bookmarks_root_folder">Корневая папка</string>
+  <string name="bookmarks_system_folder">Системная папка</string>
+  <string name="bookmarks_button_config_cd">Установить начальной папкой.</string>
+  <string name="bookmarks_button_remove_bookmark_cd">Удалить из закладок.</string>
+  <string name="bookmarks_msgs_add_success">Закладка успешно создана.</string>
 
-  <string name="initial_directory_dialog_title">Initial folder</string>
-  <string name="initial_directory_label">Choose the initial folder:</string>
-  <string name="initial_directory_relative_msg">Relative paths are not allowed.</string>
-  <string name="initial_directory_error_msg">An error occurred while saving the initial folder.</string>
+  <string name="initial_directory_dialog_title">Начальная папка</string>
+  <string name="initial_directory_label">Выбор начальной папки:</string>
+  <string name="initial_directory_relative_msg">Относительные пути не допускаются.</string>
+  <string name="initial_directory_error_msg">При установке начальной папки произошла ошибка.</string>
 
-  <string name="menu_history">History</string>
-  <string name="menu_bookmarks">Bookmarks</string>
-  <string name="menu_search">Search</string>
-  <string name="menu_settings">Settings</string>
-  <string name="menu_clear_history">Clear history</string>
+  <string name="menu_history">История</string>
+  <string name="menu_bookmarks">Закладки</string>
+  <string name="menu_search">Поиск</string>
+  <string name="menu_settings">Настройки</string>
+  <string name="menu_clear_history">Очистить историю</string>
 
-  <string name="create_copy_regexp"><xliff:g id="name">%1$s</xliff:g> - copy<xliff:g id="extension">%2$s</xliff:g></string>
-  <string name="create_new_compress_file_regexp"><xliff:g id="name">%1$s</xliff:g> - new<xliff:g id="extension">%2$s</xliff:g></string>
+  <string name="create_copy_regexp"><xliff:g id="name">%1$s</xliff:g> - копия <xliff:g id="extension">%2$s</xliff:g></string>
+  <string name="create_new_compress_file_regexp"><xliff:g id="name">%1$s</xliff:g> - новый <xliff:g id="extension">%2$s</xliff:g></string>
 
-  <string name="waiting_dialog_msg">Performing operation &#8230;</string>
-  <string name="waiting_dialog_copying_title">Copying &#8230;</string>
-  <string name="waiting_dialog_moving_title">Moving &#8230;</string>
-  <string name="waiting_dialog_deleting_title">Deleting &#8230;</string>
-  <string name="waiting_dialog_extracting_title">Extracting &#8230;</string>
-  <string name="waiting_dialog_compressing_title">Compressing &#8230;</string>
-  <string name="msgs_extracting_success">The extracting operation was completed successfully. The data was extracted to <xliff:g id="destination">%1$s</xliff:g>.</string>
-  <string name="msgs_compressing_success">The compressing operation was completed successfully. The data was compressed to <xliff:g id="destination">%1$s</xliff:g>.</string>
+  <string name="waiting_dialog_msg">Выполнение операции &#8230;</string>
+  <string name="waiting_dialog_copying_title">Копирование &#8230;</string>
+  <string name="waiting_dialog_moving_title">Перемещение &#8230;</string>
+  <string name="waiting_dialog_deleting_title">Удаление &#8230;</string>
+  <string name="waiting_dialog_extracting_title">Извлечение &#8230;</string>
+  <string name="waiting_dialog_compressing_title">Сжатие &#8230;</string>
+  <string name="msgs_extracting_success">Извлечение успешно завершено. Данные извлечены в <xliff:g id="destination">%1$s</xliff:g>.</string>
+  <string name="msgs_compressing_success">Сжатие успешно завершено. Данные сжаты в <xliff:g id="destination">%1$s</xliff:g>.</string>
 
-  <string name="actions_dialog_title">Actions</string>
-  <string name="actions_menu_properties_current_folder">Properties</string>
-  <string name="actions_menu_refresh">Refresh</string>
-  <string name="actions_menu_new_directory">New folder</string>
-  <string name="actions_menu_new_file">New file</string>
-  <string name="actions_menu_select_all">Select all</string>
-  <string name="actions_menu_deselect_all">Deselect all</string>
-  <string name="actions_menu_select">Select</string>
-  <string name="actions_menu_deselect">Deselect</string>
-  <string name="actions_menu_paste_selection">Paste selection</string>
-  <string name="actions_menu_move_selection">Move selection</string>
-  <string name="actions_menu_delete_selection">Delete selection</string>
-  <string name="actions_menu_compress_selection">Compress selection</string>
-  <string name="actions_menu_create_link">Create link</string>
-  <string name="actions_menu_open">Open</string>
-  <string name="actions_menu_open_with">Open with</string>
-  <string name="actions_menu_execute">Execute</string>
-  <string name="actions_menu_send">Send</string>
-  <string name="actions_menu_compress">Compress</string>
-  <string name="actions_menu_extract">Extract</string>
-  <string name="actions_menu_delete">Delete</string>
-  <string name="actions_menu_rename">Rename</string>
-  <string name="actions_menu_create_copy">Create copy</string>
-  <string name="actions_menu_properties">Properties</string>
-  <string name="actions_menu_add_to_bookmarks">Add to bookmarks</string>
-  <string name="actions_menu_add_shortcut">Add shortcut</string>
-  <string name="actions_menu_open_parent_folder">Open parent</string>
+  <string name="actions_dialog_title">Действия</string>
+  <string name="actions_menu_properties_current_folder">Свойства</string>
+  <string name="actions_menu_refresh">Обновить</string>
+  <string name="actions_menu_new_directory">Новая папка</string>
+  <string name="actions_menu_new_file">Новый файл</string>
+  <string name="actions_menu_select_all">Выбрать всё</string>
+  <string name="actions_menu_deselect_all">Снять выбор</string>
+  <string name="actions_menu_select">Выбор</string>
+  <string name="actions_menu_deselect">Снять</string>
+  <string name="actions_menu_paste_selection">Вставить выбранное</string>
+  <string name="actions_menu_move_selection">Переместить выбранное</string>
+  <string name="actions_menu_delete_selection">Удалить выбранное</string>
+  <string name="actions_menu_compress_selection">Сжать выбранное</string>
+  <string name="actions_menu_create_link">Создать ссылку</string>
+  <string name="actions_menu_open">Открыть</string>
+  <string name="actions_menu_open_with">Открыть в...</string>
+  <string name="actions_menu_execute">Выполнить</string>
+  <string name="actions_menu_send">Отправить</string>
+  <string name="actions_menu_compress">Сжать</string>
+  <string name="actions_menu_extract">Извлечь</string>
+  <string name="actions_menu_delete">Удалить</string>
+  <string name="actions_menu_rename">Переименовать</string>
+  <string name="actions_menu_create_copy">Копировать</string>
+  <string name="actions_menu_properties">Свойства</string>
+  <string name="actions_menu_add_to_bookmarks">Добавить в закладки</string>
+  <string name="actions_menu_add_shortcut">Добавить ярлык</string>
+  <string name="actions_menu_open_parent_folder">Открыть родителя</string>
 
-  <string name="actions_ask_undone_operation_msg">This action cannot be undone. Do you want to continue?</string>
+  <string name="actions_ask_undone_operation_msg">Это действие не обратимо. Вы хотите продолжить?</string>
 
   <string name="input_name_dialog_label">Name:</string>
   <string name="input_name_dialog_message_empty_name">The name cannot be empty.</string>
