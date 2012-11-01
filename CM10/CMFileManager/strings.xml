@@ -343,7 +343,7 @@
 
   <string name="security_warning_extract">Warning!\n\n Extracting an archive file with relative or absolute paths may cause damage to your device by overwriting system files.\n\n Do you want to continue?</string>
 
-  <string name="changelog_title">Changelog</string>
+  <string name="changelog_title">Список изменений</string>
 
   <string name="welcome_title">Welcome</string>
   <string name="welcome_msg">
